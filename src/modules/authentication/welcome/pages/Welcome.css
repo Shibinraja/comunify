@@ -1,0 +1,30 @@
+.free-trial-btn {
+  background: #ffffff;
+  border: 1.92127px solid #eff0f7;
+}
+
+.price {
+  background: linear-gradient(277.31deg, #69b5e5 1.11%, #abcf6b 100%);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  background-clip: text;
+  text-shadow: 0px 4px 30px rgba(0, 0, 0, 0.1);
+}
+
+@media (min-width: 1200px) {
+  .welcome-wrapper {
+    padding-bottom: 800px;
+  }
+}
+
+@media (min-width: 1500px) {
+  .welcome-wrapper {
+    padding-bottom: 750px;
+  }
+}
+
+@media (min-width: 1700px) {
+  .welcome-wrapper {
+    padding-bottom: 700px;
+  }
+}
